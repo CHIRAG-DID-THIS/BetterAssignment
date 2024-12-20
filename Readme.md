@@ -1,5 +1,3 @@
-
-```markdown
 # BetterAssignment
 
 This is a simple React Native project that demonstrates a fully functional authentication flow, including login, signup, and a sample dashboard.
